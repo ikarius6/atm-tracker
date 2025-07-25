@@ -1,4 +1,14 @@
-# Getting Started with Create React App
+# ATM Tracker App
+
+A modern application to track ATM transactions and monitor cash flow.
+
+## Author
+
+Mr.Jack (ikarius6)
+
+## Overview
+
+The ATM Tracker is a web application designed to help users track and manage ATM transactions efficiently. It provides a user-friendly interface for monitoring cash deposits, withdrawals, and maintaining transaction records.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
